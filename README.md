@@ -1,10 +1,13 @@
 ![Banner](asset/banner.png)
 # Intro
-Simple ray caster principle implementation in SFML.
-Ray casting is a basic computer graphics rendering algorithms that use the geometric algorithm of ray tracing. 
-Here it is :
+
+Simple implementation of the Ray Caster principle in SFML. 
+Ray casting is a basic computer graphics rendering algorithm that uses the geometric algorithm of ray tracing. 
+Here it is:
+
 ![ex](asset/ex.jpg)
-There is a 2D map that you can see in the top left corner , rays are cast from the player, if one ray touch a wall a collum is dwaned.
+
+There is a 2D map that you can see in the top left corner, rays are cast from the player. If one ray touches a wall, a column is drawn.
 
 
 # Usage and install
